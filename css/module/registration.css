@@ -1,0 +1,43 @@
+.registration {
+  background-image: url('/img/bg_block_one.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.registration__container {
+  padding-top: 127px;
+}
+
+.registration__title {
+  font-family: 'Inter';  
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 121px;
+  color: #55C2FF;
+  margin-bottom: 16px;
+}
+
+.registration__description {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 29px;
+  color: #FFFFFF;
+  width: 480px;
+  margin-bottom: 50px;
+}
+
+.registrtion__btn {
+  padding: 11px 41px;   
+  background: #55C2FF;
+  border-radius: 8px;
+  font-family: 'Inter';  
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 138px;
+}
